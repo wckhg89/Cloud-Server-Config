@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/wckhg89/config_repository.git
+          #username:
+          #password:
